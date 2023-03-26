@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.dark {
+  background-color: black;
+}
+
+.light {
+  background-color: white;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.website-logo {
+  height: 70px;
+  width: 80px;
+}
+
+.website-items-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  color: white;
+}
+
+.nav-link {
+  margin: 20px;
+}
+
+.toggle-img {
+  width: 70px;
+  height: 60px;
+}
+
+.light-color {
+  color: white;
+}
+
+.black-color {
+  color: black;
+}
+
+.toggle-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 60px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.toggle-icon {
+  width: 50px;
+  height: 50px;
+}

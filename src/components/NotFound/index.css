@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.black- {
+  background-color: black;
+}
+
+.not-container {
+  height: 300px;
+  width: 350px;
+}
+
+.found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.light {
+  background-color: #ffffff;
+}
+
+.light-color {
+  color: #ffffff;
+}

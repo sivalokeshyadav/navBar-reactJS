@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.light-color {
+  color: white;
+}
+
+.dark {
+  background-color: black;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
